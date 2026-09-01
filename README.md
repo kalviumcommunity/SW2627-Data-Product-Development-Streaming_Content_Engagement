@@ -1,25 +1,60 @@
-# Streaming Retention Intelligence — Day 20 MVP
+# Streaming Content Engagement & Retention Intelligence
 
-Run:
-pip install -r requirements.txt
-streamlit run app.py
+An end-to-end data product that analyzes viewer engagement behaviour and identifies patterns associated with subscriber retention.
 
-Files:
-- app.py — working Streamlit dashboard
-- data.csv — demo dataset
-- analysis.sql — SQL business questions
-- PRD_Streaming_Retention_Intelligence.txt — PRD
-- FIGMA_DESIGN_SPEC.txt — Figma layout specification
+## 📌 Project Overview
 
-Viva:
-1. Explain problem.
-2. Explain data model and IDs.
-3. Show four KPIs.
-4. Apply a filter.
-5. Explain retained vs churned charts.
-6. Show genre/top-content analysis.
-7. Open analysis.sql and explain one query.
-8. State limitation: association is not causation.
-9. Explain your personal contribution lane.
+A subscription-based streaming platform collects viewer engagement data such as:
 
-Replace data.csv with the approved team dataset if available.
+- Watch duration
+- Pause frequency
+- Content completion
+- Subscriber retention
+
+However, the content acquisition team does not have a clear way to understand which viewer engagement behaviours are associated with retaining subscribers.
+
+This project addresses that problem by transforming viewing data into meaningful engagement and retention insights through data cleaning, analysis, SQL queries, and an interactive dashboard.
+
+### Core Question
+
+> **What viewer engagement behaviours are associated with retaining subscribers?**
+
+---
+
+## 🎯 Objectives
+
+The project aims to:
+
+1. Understand and structure viewer engagement data.
+2. Clean and validate the dataset.
+3. Calculate key engagement and retention metrics.
+4. Compare retained and churned viewers.
+5. Analyze retention across movies/content and genres.
+6. Identify engagement patterns associated with retention.
+7. Present the analysis through an interactive dashboard.
+8. Support content acquisition decisions using data-driven insights.
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Dataset
+     ↓
+Data Understanding
+     ↓
+Data Cleaning & Validation
+     ↓
+Data Modelling
+     ↓
+Python / Pandas Analysis
+     ↓
+SQL Queries
+     ↓
+Engagement & Retention Metrics
+     ↓
+Plotly Visualizations
+     ↓
+Streamlit Dashboard
+     ↓
+Insights for Content Acquisition
