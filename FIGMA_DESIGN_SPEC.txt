@@ -1,0 +1,36 @@
+FIGMA-READY DESIGN SPEC
+Frame: Desktop 1440×1024
+Screen: Retention Intelligence Dashboard
+
+HEADER
+Title: Streaming Retention Intelligence
+Subtitle: Understand which engagement patterns are associated with subscriber retention.
+
+SIDEBAR (240px)
+• Genre multi-select
+• Content multi-select
+• Reset Filters
+• Demo/methodology note
+
+KPI ROW
+• Records
+• Retention Rate
+• Avg Watch Duration
+• Avg Completion
+
+CHARTS
+• Completion by Retention Status
+• Watch Duration by Retention Status
+• Retention by Genre
+• Top Content by Retention
+• Completion vs Watch Duration scatter plot
+
+INSIGHTS
+Three concise calculated observations.
+Footer warning: Association ≠ causation.
+
+DESIGN
+Inter font; light neutral background; white cards; subtle borders; 10–12px radius; 8px spacing grid; one primary accent colour; clear labels and readable contrast.
+
+INTERACTIONS
+Changing filters updates KPIs/charts. Reset restores all data. Chart hover shows title/genre/metric values.

@@ -1,0 +1,180 @@
+PRODUCT REQUIREMENTS DOCUMENT (PRD)
+Streaming Content Engagement & Retention Intelligence
+Sprint 1 — End-to-End Data Product | Version 1.0 | Day 20
+
+1. EXECUTIVE SUMMARY
+A subscription streaming platform collects viewer engagement data such as watch duration, pause frequency and episode completion, but the acquisition team does not have an analytical layer connecting these signals to subscriber retention. This product cleans and analyses viewing data and presents the results in an interactive Streamlit dashboard so acquisition teams can identify content and engagement patterns associated with retention.
+
+This is a decision-support product, not an automated greenlighting system. Correlation/association will not be presented as proof of causation.
+
+2. PROBLEM STATEMENT
+The platform captures useful viewer behaviour data, but acquisition decisions are still made without understanding which engagement patterns correlate with retention. The core problem is therefore turning raw engagement data into understandable, actionable content insights.
+
+3. PRODUCT VISION
+Create a lightweight, explainable analytics product that answers:
+“What viewer engagement patterns are associated with retention, and what content patterns should the acquisition team investigate further?”
+
+4. GOALS
+• Organize viewer, content, engagement and retention data.
+• Clean and validate the dataset.
+• Calculate watch duration, completion, pause and retention metrics.
+• Use SQL to answer business questions.
+• Compare engagement patterns between retained and churned viewers.
+• Identify high-performing content and genres.
+• Present findings through an interactive dashboard.
+• Document each team member’s contribution lane.
+
+5. NON-GOALS
+• Automatically purchasing or approving content.
+• Claiming engagement causes retention.
+• Building a full streaming/video platform.
+• Building a production-grade recommendation engine.
+• Using personally identifiable information.
+• Building advanced ML unless required later.
+
+6. TARGET USERS
+Content Acquisition Manager — needs quick content and genre comparisons for acquisition decisions.
+Data Analyst — needs clean data, reproducible calculations and SQL.
+Mentor/Reviewer — needs to understand the complete data-to-insight workflow.
+
+7. USER STORIES
+• As an acquisition manager, I want retention and engagement KPIs so I can understand overall performance.
+• As an acquisition manager, I want genre/content filters so I can investigate categories.
+• As an acquisition manager, I want to compare completion, watch duration and pauses against retention so I can identify useful patterns.
+• As an analyst, I want reproducible calculations and SQL queries so results can be validated.
+• As a reviewer, I want to see the complete pipeline from data to dashboard.
+
+8. FUNCTIONAL REQUIREMENTS
+FR-01 Data ingestion — load the approved dataset or clearly labelled demo data.
+FR-02 Data validation — check columns, missing values, duplicates and invalid ranges.
+FR-03 Metric calculation — calculate average watch duration, completion, pauses and retention.
+FR-04 Content analysis — rank content using engagement/retention metrics.
+FR-05 Genre analysis — compare retention and engagement across genres.
+FR-06 Retention comparison — compare retained vs churned groups.
+FR-07 Filtering — genre and content filters.
+FR-08 Visualization — KPI cards and charts.
+FR-09 Insights — show concise data-backed observations.
+FR-10 SQL — include queries answering business questions.
+FR-11 Documentation — document architecture, schema, assumptions and workflow.
+FR-12 Explainability — clearly state association is not causation.
+
+9. DATA MODEL
+Movies: Movie_ID, Title, Genre, Language, Release_Year.
+Actors: Actor_ID, Actor_Name.
+Movie_Actor: Movie_ID, Actor_ID. This supports many-to-many movie/actor relationships.
+Viewers: Viewer_ID, Age (optional), Country (optional), Subscription_Type.
+Watch_History: Viewer_ID, Movie_ID, Watch_Duration_Min, Pause_Count, Completion_Pct, Watch_Date.
+Subscription: Viewer_ID, Subscription_Status, Retained_Flag.
+
+Relationships:
+• One viewer → many watch-history records.
+• One movie → many watch-history records.
+• Movies ↔ Actors through Movie_Actor.
+• One viewer → subscription record for the analysis period.
+
+10. IDENTIFIER STRATEGY
+Use readable unique keys such as MOV001, ACT001 and USR001. Numeric IDs or Roman-numeral IDs are technically possible, but the format itself gives no analytical advantage. IDs are used to link records reliably. Prefix-based IDs are easier for humans to interpret.
+
+11. CORE METRICS
+Average Watch Duration = mean minutes watched per view.
+Average Completion Rate = mean percentage completed.
+Average Pause Frequency = mean pauses per view.
+Retention Rate = retained eligible viewers / eligible viewers × 100.
+Completion ≥80% Rate = share of views reaching at least 80%.
+Optional Engagement Score = a clearly documented normalized combination of engagement measures.
+
+12. ANALYTICAL QUESTIONS
+1. Which engagement metric has the strongest association with retention?
+2. Do high-completion viewers retain at a higher rate?
+3. How does watch duration differ between retained and churned viewers?
+4. Is high pause frequency associated with lower retention?
+5. Which movies combine strong engagement and retention?
+6. Which genres have the highest retention?
+7. Are certain actors associated with higher-retention content?
+8. Are there categories with high watch time but low retention?
+
+13. ANALYSIS WORKFLOW
+Raw data → validation → cleaning → analytical dataset → SQL queries → metric calculation → retention comparison → visualizations → insights → acquisition recommendations.
+
+14. SQL PLAN
+Include queries for:
+• Overall retention rate.
+• Engagement by retention status.
+• Retention by movie.
+• Retention by genre.
+• Top content by completion.
+• High completion/low retention content.
+• Optional actor-level analysis through Movie_Actor.
+
+15. DASHBOARD REQUIREMENTS
+Header with product name and purpose.
+Sidebar with genre/content filters.
+KPI row: total records, retention rate, average watch duration, average completion.
+Charts:
+• Completion by retention status.
+• Watch duration by retention status.
+• Retention by genre.
+• Top content by retention.
+• Completion vs watch duration scatter plot.
+Bottom: Key Insights and methodology/caveat.
+
+16. FIGMA DESIGN
+Desktop frame: 1440×1024.
+Sidebar: ~240px.
+Main area: cards with 24px spacing.
+Use a clean light dashboard, white cards, subtle borders, rounded corners, modern sans-serif typography.
+Components: sidebar filter, KPI cards, bar-chart cards, scatter chart, insights card, methodology footer.
+Prototype: changing filters updates all KPI/cards/charts; Reset restores defaults.
+Accessibility: readable contrast and labels; do not rely on colour alone.
+
+17. TECHNICAL ARCHITECTURE
+CSV → Pandas cleaning → analytical data → SQLite/SQL → Streamlit → charts/KPIs/insights.
+Suggested stack: Python, Pandas, SQLite, SQL, Streamlit, Plotly, Git/GitHub.
+
+18. DATA QUALITY
+• Required columns must exist.
+• Completion must be 0–100.
+• Watch duration and pause count cannot be negative.
+• Retention flag must be binary.
+• Check duplicates.
+• Validate dashboard totals against independent calculations.
+
+19. SUCCESS CRITERIA
+• Dashboard launches.
+• Filters work.
+• At least four KPIs.
+• At least three useful visualizations.
+• At least five SQL business questions.
+• Insights are supported by calculations.
+• Documentation is complete.
+• Every member can explain their own contribution lane.
+
+20. RISKS
+Small/demo dataset → label it clearly and avoid overclaiming.
+Correlation vs causation → use association language.
+Missing data → document cleaning rules.
+Confounding factors → mention genre, content length, timing and viewer differences.
+Time constraint → prioritize end-to-end MVP over advanced ML.
+Unclear ownership → document contribution lanes and commits.
+
+21. CONTRIBUTION LANES
+Member A — Data Pipeline & Cleaning: ingestion, validation, cleaning and metric preparation.
+Member B — SQL & Analytics: schema, SQL queries, aggregation and findings.
+Member C — Application & UX: Streamlit dashboard, filters, charts and UI.
+For a two-person team, merge two lanes while keeping responsibilities explicit.
+
+22. VIVA TALKING POINTS
+• We solve the gap between engagement data and acquisition decisions.
+• IDs make entities linkable; ID format is not an analytical feature.
+• Retention is the outcome; watch duration, completion and pauses are engagement signals.
+• We start with aggregation and association analysis.
+• The dashboard supports decisions but does not automatically greenlight content.
+• The end-to-end flow is data → cleaning → SQL → analysis → dashboard → insights.
+
+23. FUTURE SCOPE
+• Larger real-world datasets.
+• Retention prediction model.
+• Cohort/time-series retention.
+• Causal/A-B analysis.
+• Automated refresh and deployment.
+• Explainable content recommendations.

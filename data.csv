@@ -1,0 +1,601 @@
+Viewer_ID,Movie_ID,Title,Genre,Watch_Duration_Min,Pause_Count,Completion_Pct,Retained_Flag
+USR104,MOV007,Monsoon Stories,Drama,33.7,3,81.3,0
+USR021,MOV008,Code Red,Thriller,34.6,2,63.3,1
+USR015,MOV001,The Last Signal,Thriller,45.6,2,37.6,0
+USR089,MOV003,Galaxy Run,Sci-Fi,30.9,4,74.6,1
+USR008,MOV002,City Lights,Drama,39.9,1,71.4,1
+USR054,MOV003,Galaxy Run,Sci-Fi,65.7,3,67.9,1
+USR082,MOV002,City Lights,Drama,45.3,1,87.9,0
+USR045,MOV005,Laugh Track,Comedy,18.3,2,80.3,1
+USR033,MOV001,The Last Signal,Thriller,41.3,2,67.0,1
+USR062,MOV005,Laugh Track,Comedy,28.4,3,75.8,1
+USR142,MOV008,Code Red,Thriller,56.3,2,100.0,1
+USR132,MOV007,Monsoon Stories,Drama,53.8,3,69.3,0
+USR066,MOV005,Laugh Track,Comedy,34.0,2,45.1,0
+USR092,MOV010,The Long Game,Sports,34.5,4,81.0,1
+USR051,MOV009,Wild Trails,Adventure,31.5,2,66.1,0
+USR052,MOV010,The Long Game,Sports,47.2,3,80.2,1
+USR054,MOV007,Monsoon Stories,Drama,13.2,1,71.5,1
+USR068,MOV007,Monsoon Stories,Drama,78.9,1,80.6,1
+USR093,MOV007,Monsoon Stories,Drama,30.4,4,85.9,0
+USR147,MOV003,Galaxy Run,Sci-Fi,33.5,0,100.0,1
+USR042,MOV004,Hidden Truth,Mystery,26.1,3,80.5,0
+USR009,MOV003,Galaxy Run,Sci-Fi,37.2,5,60.7,0
+USR093,MOV009,Wild Trails,Adventure,61.5,4,56.4,1
+USR033,MOV002,City Lights,Drama,31.3,3,75.1,0
+USR038,MOV005,Laugh Track,Comedy,35.1,4,52.0,0
+USR061,MOV006,Final Horizon,Action,52.8,4,87.8,1
+USR046,MOV003,Galaxy Run,Sci-Fi,64.2,0,79.1,1
+USR067,MOV005,Laugh Track,Comedy,44.9,5,77.9,1
+USR130,MOV002,City Lights,Drama,52.7,2,73.7,1
+USR026,MOV010,The Long Game,Sports,24.9,2,87.7,1
+USR115,MOV003,Galaxy Run,Sci-Fi,51.9,0,46.2,0
+USR125,MOV007,Monsoon Stories,Drama,40.1,3,73.2,1
+USR101,MOV006,Final Horizon,Action,35.8,0,73.4,1
+USR094,MOV001,The Last Signal,Thriller,58.3,3,62.3,1
+USR117,MOV003,Galaxy Run,Sci-Fi,62.5,4,86.9,1
+USR122,MOV007,Monsoon Stories,Drama,40.3,0,100.0,1
+USR069,MOV001,The Last Signal,Thriller,18.8,1,65.8,1
+USR069,MOV006,Final Horizon,Action,50.7,1,50.7,1
+USR069,MOV001,The Last Signal,Thriller,52.5,3,82.8,1
+USR101,MOV004,Hidden Truth,Mystery,53.3,6,82.2,1
+USR035,MOV003,Galaxy Run,Sci-Fi,49.5,1,91.1,1
+USR115,MOV007,Monsoon Stories,Drama,23.0,1,68.3,0
+USR138,MOV009,Wild Trails,Adventure,71.3,2,71.3,1
+USR037,MOV005,Laugh Track,Comedy,40.8,4,85.5,1
+USR141,MOV001,The Last Signal,Thriller,59.2,2,87.4,0
+USR025,MOV003,Galaxy Run,Sci-Fi,40.9,4,77.8,1
+USR122,MOV004,Hidden Truth,Mystery,59.4,2,86.2,1
+USR137,MOV005,Laugh Track,Comedy,41.9,7,77.8,1
+USR019,MOV002,City Lights,Drama,18.3,5,73.4,1
+USR126,MOV006,Final Horizon,Action,27.7,2,53.7,1
+USR117,MOV010,The Long Game,Sports,54.8,4,85.8,0
+USR147,MOV006,Final Horizon,Action,41.3,0,37.9,1
+USR117,MOV004,Hidden Truth,Mystery,31.5,6,54.6,0
+USR101,MOV008,Code Red,Thriller,38.5,2,80.3,0
+USR141,MOV009,Wild Trails,Adventure,37.1,0,42.1,0
+USR119,MOV003,Galaxy Run,Sci-Fi,18.0,3,85.4,1
+USR099,MOV008,Code Red,Thriller,59.7,3,63.6,1
+USR110,MOV001,The Last Signal,Thriller,60.6,6,78.2,1
+USR118,MOV001,The Last Signal,Thriller,43.8,3,81.3,1
+USR047,MOV003,Galaxy Run,Sci-Fi,30.8,4,93.2,1
+USR091,MOV007,Monsoon Stories,Drama,51.7,2,96.6,0
+USR132,MOV003,Galaxy Run,Sci-Fi,63.7,5,67.2,1
+USR115,MOV010,The Long Game,Sports,41.8,3,86.3,1
+USR132,MOV009,Wild Trails,Adventure,20.4,2,100.0,0
+USR061,MOV008,Code Red,Thriller,57.0,3,67.8,1
+USR047,MOV006,Final Horizon,Action,57.7,3,46.2,0
+USR047,MOV009,Wild Trails,Adventure,43.8,1,100.0,1
+USR056,MOV008,Code Red,Thriller,30.4,3,100.0,1
+USR015,MOV003,Galaxy Run,Sci-Fi,50.6,2,77.6,1
+USR126,MOV009,Wild Trails,Adventure,5.1,2,58.1,1
+USR008,MOV009,Wild Trails,Adventure,45.3,3,88.4,1
+USR059,MOV008,Code Red,Thriller,57.2,2,53.3,1
+USR075,MOV006,Final Horizon,Action,21.0,1,82.1,0
+USR075,MOV008,Code Red,Thriller,34.7,2,27.0,1
+USR140,MOV004,Hidden Truth,Mystery,68.9,5,70.7,1
+USR003,MOV001,The Last Signal,Thriller,29.8,2,44.6,1
+USR063,MOV001,The Last Signal,Thriller,30.8,2,33.5,0
+USR078,MOV005,Laugh Track,Comedy,45.9,2,100.0,1
+USR064,MOV005,Laugh Track,Comedy,44.5,1,73.6,1
+USR078,MOV008,Code Red,Thriller,65.7,3,81.6,1
+USR145,MOV010,The Long Game,Sports,37.9,5,82.9,0
+USR104,MOV001,The Last Signal,Thriller,64.7,0,84.4,0
+USR038,MOV003,Galaxy Run,Sci-Fi,7.7,3,97.8,1
+USR086,MOV009,Wild Trails,Adventure,57.8,1,52.4,0
+USR005,MOV002,City Lights,Drama,49.2,2,78.0,1
+USR069,MOV004,Hidden Truth,Mystery,35.3,3,89.3,1
+USR111,MOV004,Hidden Truth,Mystery,15.3,2,98.9,1
+USR122,MOV008,Code Red,Thriller,81.7,3,100.0,1
+USR143,MOV009,Wild Trails,Adventure,65.9,3,62.8,1
+USR025,MOV005,Laugh Track,Comedy,58.4,3,97.1,1
+USR025,MOV010,The Long Game,Sports,38.6,3,83.3,0
+USR114,MOV007,Monsoon Stories,Drama,39.8,1,90.7,1
+USR123,MOV005,Laugh Track,Comedy,48.7,4,72.3,0
+USR030,MOV008,Code Red,Thriller,25.2,1,69.9,1
+USR008,MOV008,Code Red,Thriller,17.2,4,84.6,0
+USR087,MOV007,Monsoon Stories,Drama,45.6,2,69.3,1
+USR072,MOV007,Monsoon Stories,Drama,49.3,1,58.1,0
+USR142,MOV006,Final Horizon,Action,31.1,9,86.6,0
+USR140,MOV007,Monsoon Stories,Drama,17.0,3,100.0,1
+USR086,MOV004,Hidden Truth,Mystery,15.7,2,49.0,1
+USR025,MOV008,Code Red,Thriller,44.5,3,54.4,1
+USR029,MOV007,Monsoon Stories,Drama,43.3,1,83.1,0
+USR053,MOV002,City Lights,Drama,17.6,3,81.9,1
+USR054,MOV007,Monsoon Stories,Drama,65.6,3,93.4,1
+USR039,MOV001,The Last Signal,Thriller,44.8,2,58.4,1
+USR148,MOV008,Code Red,Thriller,28.7,4,54.9,1
+USR104,MOV003,Galaxy Run,Sci-Fi,33.4,3,74.2,1
+USR108,MOV010,The Long Game,Sports,68.6,0,57.7,1
+USR047,MOV003,Galaxy Run,Sci-Fi,51.3,1,43.7,1
+USR026,MOV008,Code Red,Thriller,51.3,7,84.4,1
+USR072,MOV010,The Long Game,Sports,23.2,1,100.0,0
+USR146,MOV002,City Lights,Drama,51.2,1,96.4,1
+USR039,MOV010,The Long Game,Sports,62.2,4,95.4,0
+USR055,MOV008,Code Red,Thriller,22.7,4,98.0,1
+USR121,MOV003,Galaxy Run,Sci-Fi,43.2,5,91.2,1
+USR142,MOV010,The Long Game,Sports,36.6,2,67.2,0
+USR088,MOV008,Code Red,Thriller,26.9,1,53.1,0
+USR052,MOV004,Hidden Truth,Mystery,23.9,3,89.7,1
+USR003,MOV004,Hidden Truth,Mystery,59.5,2,100.0,1
+USR082,MOV008,Code Red,Thriller,33.7,5,63.1,0
+USR142,MOV001,The Last Signal,Thriller,47.2,1,65.2,1
+USR124,MOV005,Laugh Track,Comedy,56.1,6,61.0,0
+USR081,MOV006,Final Horizon,Action,55.3,1,54.9,1
+USR033,MOV002,City Lights,Drama,26.1,4,9.3,0
+USR045,MOV006,Final Horizon,Action,58.5,1,73.1,1
+USR107,MOV009,Wild Trails,Adventure,27.7,4,55.3,1
+USR113,MOV005,Laugh Track,Comedy,31.7,3,80.9,1
+USR074,MOV009,Wild Trails,Adventure,19.7,3,47.5,1
+USR068,MOV009,Wild Trails,Adventure,40.6,2,77.0,1
+USR120,MOV001,The Last Signal,Thriller,48.1,1,85.5,1
+USR058,MOV002,City Lights,Drama,47.5,0,62.5,1
+USR119,MOV007,Monsoon Stories,Drama,41.0,3,41.4,0
+USR058,MOV004,Hidden Truth,Mystery,49.0,1,82.4,0
+USR025,MOV006,Final Horizon,Action,33.5,0,59.2,0
+USR050,MOV008,Code Red,Thriller,56.3,3,65.8,1
+USR017,MOV004,Hidden Truth,Mystery,52.8,3,81.2,1
+USR088,MOV004,Hidden Truth,Mystery,21.6,1,66.3,0
+USR018,MOV008,Code Red,Thriller,50.5,0,64.0,0
+USR145,MOV002,City Lights,Drama,79.1,4,63.1,0
+USR097,MOV009,Wild Trails,Adventure,41.3,2,66.2,1
+USR103,MOV002,City Lights,Drama,57.3,1,73.6,0
+USR049,MOV010,The Long Game,Sports,25.4,1,89.8,1
+USR008,MOV008,Code Red,Thriller,63.0,0,88.6,1
+USR084,MOV008,Code Red,Thriller,47.4,2,88.1,1
+USR012,MOV004,Hidden Truth,Mystery,62.3,1,80.4,1
+USR119,MOV007,Monsoon Stories,Drama,23.8,3,66.6,1
+USR093,MOV005,Laugh Track,Comedy,41.6,5,100.0,1
+USR108,MOV006,Final Horizon,Action,26.7,3,91.6,1
+USR079,MOV004,Hidden Truth,Mystery,88.6,2,78.3,1
+USR018,MOV002,City Lights,Drama,18.8,3,82.8,1
+USR041,MOV008,Code Red,Thriller,34.7,4,83.2,0
+USR123,MOV006,Final Horizon,Action,47.7,3,69.2,1
+USR010,MOV009,Wild Trails,Adventure,22.6,3,92.9,1
+USR028,MOV009,Wild Trails,Adventure,22.8,2,44.0,0
+USR078,MOV009,Wild Trails,Adventure,17.4,5,93.7,0
+USR001,MOV002,City Lights,Drama,42.7,0,66.2,1
+USR020,MOV007,Monsoon Stories,Drama,32.6,1,62.3,1
+USR050,MOV005,Laugh Track,Comedy,53.6,0,100.0,1
+USR008,MOV009,Wild Trails,Adventure,18.8,3,81.1,1
+USR086,MOV002,City Lights,Drama,43.8,1,82.8,0
+USR142,MOV002,City Lights,Drama,40.5,4,71.5,1
+USR063,MOV005,Laugh Track,Comedy,44.1,1,87.1,1
+USR132,MOV009,Wild Trails,Adventure,37.0,1,75.7,1
+USR089,MOV006,Final Horizon,Action,52.4,4,88.2,1
+USR102,MOV005,Laugh Track,Comedy,25.6,3,46.1,0
+USR012,MOV010,The Long Game,Sports,22.2,7,50.6,0
+USR025,MOV005,Laugh Track,Comedy,63.7,6,39.2,1
+USR117,MOV004,Hidden Truth,Mystery,46.2,1,68.6,1
+USR077,MOV004,Hidden Truth,Mystery,49.8,2,75.7,0
+USR056,MOV004,Hidden Truth,Mystery,65.4,3,73.6,1
+USR119,MOV001,The Last Signal,Thriller,18.1,4,79.9,1
+USR010,MOV006,Final Horizon,Action,44.1,1,72.9,1
+USR019,MOV008,Code Red,Thriller,59.2,2,66.6,0
+USR069,MOV004,Hidden Truth,Mystery,55.4,1,100.0,1
+USR011,MOV001,The Last Signal,Thriller,51.5,1,79.4,1
+USR002,MOV010,The Long Game,Sports,39.8,0,85.2,0
+USR068,MOV003,Galaxy Run,Sci-Fi,67.1,3,88.6,1
+USR073,MOV010,The Long Game,Sports,34.2,3,84.3,1
+USR050,MOV008,Code Red,Thriller,20.4,4,50.0,0
+USR098,MOV003,Galaxy Run,Sci-Fi,54.4,4,36.1,1
+USR121,MOV007,Monsoon Stories,Drama,31.4,3,71.0,1
+USR104,MOV007,Monsoon Stories,Drama,20.8,4,58.8,1
+USR016,MOV006,Final Horizon,Action,60.2,2,74.6,1
+USR075,MOV006,Final Horizon,Action,47.4,2,66.8,1
+USR134,MOV003,Galaxy Run,Sci-Fi,25.4,6,33.2,0
+USR149,MOV003,Galaxy Run,Sci-Fi,59.5,0,60.0,1
+USR054,MOV003,Galaxy Run,Sci-Fi,50.0,4,55.8,1
+USR136,MOV004,Hidden Truth,Mystery,37.5,1,26.5,0
+USR134,MOV005,Laugh Track,Comedy,42.8,3,81.5,0
+USR010,MOV002,City Lights,Drama,39.8,0,54.6,1
+USR115,MOV009,Wild Trails,Adventure,44.2,2,65.9,1
+USR052,MOV007,Monsoon Stories,Drama,31.4,4,65.0,1
+USR092,MOV004,Hidden Truth,Mystery,5.0,2,88.8,0
+USR130,MOV006,Final Horizon,Action,24.4,1,81.7,1
+USR139,MOV005,Laugh Track,Comedy,33.8,2,79.1,0
+USR042,MOV005,Laugh Track,Comedy,41.5,3,50.5,0
+USR021,MOV005,Laugh Track,Comedy,46.4,2,58.8,1
+USR088,MOV007,Monsoon Stories,Drama,39.5,2,85.4,1
+USR017,MOV003,Galaxy Run,Sci-Fi,32.9,0,70.6,1
+USR005,MOV005,Laugh Track,Comedy,60.4,6,28.2,0
+USR073,MOV006,Final Horizon,Action,30.3,0,87.8,1
+USR122,MOV002,City Lights,Drama,30.6,0,56.5,0
+USR059,MOV007,Monsoon Stories,Drama,32.3,6,88.7,1
+USR032,MOV010,The Long Game,Sports,38.8,1,82.4,1
+USR136,MOV003,Galaxy Run,Sci-Fi,46.6,5,86.7,1
+USR086,MOV008,Code Red,Thriller,66.1,0,48.7,1
+USR097,MOV006,Final Horizon,Action,48.0,3,60.3,1
+USR108,MOV008,Code Red,Thriller,67.5,1,56.5,1
+USR132,MOV009,Wild Trails,Adventure,32.7,1,80.6,1
+USR066,MOV008,Code Red,Thriller,28.1,4,76.4,1
+USR020,MOV009,Wild Trails,Adventure,52.3,4,32.2,1
+USR111,MOV003,Galaxy Run,Sci-Fi,54.0,1,70.1,1
+USR020,MOV004,Hidden Truth,Mystery,50.8,3,78.1,1
+USR080,MOV001,The Last Signal,Thriller,33.4,1,62.1,1
+USR150,MOV010,The Long Game,Sports,69.9,4,100.0,1
+USR113,MOV008,Code Red,Thriller,41.9,4,92.1,1
+USR057,MOV007,Monsoon Stories,Drama,32.4,0,48.4,1
+USR047,MOV006,Final Horizon,Action,52.5,2,53.6,1
+USR109,MOV007,Monsoon Stories,Drama,70.3,1,99.8,1
+USR005,MOV003,Galaxy Run,Sci-Fi,15.5,3,90.6,1
+USR031,MOV004,Hidden Truth,Mystery,41.6,3,100.0,0
+USR108,MOV004,Hidden Truth,Mystery,46.5,0,78.4,1
+USR106,MOV010,The Long Game,Sports,27.4,2,55.9,1
+USR107,MOV009,Wild Trails,Adventure,30.0,0,62.5,1
+USR148,MOV009,Wild Trails,Adventure,22.3,1,52.3,1
+USR120,MOV008,Code Red,Thriller,28.6,0,84.6,1
+USR085,MOV009,Wild Trails,Adventure,48.1,2,71.9,0
+USR033,MOV009,Wild Trails,Adventure,25.9,1,61.1,1
+USR005,MOV001,The Last Signal,Thriller,57.2,3,30.9,0
+USR086,MOV002,City Lights,Drama,59.3,2,51.8,1
+USR068,MOV008,Code Red,Thriller,37.5,4,76.0,1
+USR058,MOV004,Hidden Truth,Mystery,58.0,4,46.0,1
+USR006,MOV010,The Long Game,Sports,69.4,1,100.0,1
+USR074,MOV007,Monsoon Stories,Drama,19.3,3,90.7,1
+USR012,MOV008,Code Red,Thriller,55.8,5,60.0,1
+USR129,MOV002,City Lights,Drama,29.3,3,87.0,1
+USR046,MOV007,Monsoon Stories,Drama,27.7,2,79.6,1
+USR102,MOV007,Monsoon Stories,Drama,45.6,3,70.6,1
+USR025,MOV010,The Long Game,Sports,24.2,0,67.4,1
+USR108,MOV004,Hidden Truth,Mystery,80.8,5,57.5,1
+USR034,MOV009,Wild Trails,Adventure,40.6,2,31.7,1
+USR091,MOV009,Wild Trails,Adventure,50.2,5,57.9,1
+USR148,MOV003,Galaxy Run,Sci-Fi,37.2,0,59.8,0
+USR021,MOV001,The Last Signal,Thriller,49.6,3,62.8,1
+USR134,MOV003,Galaxy Run,Sci-Fi,34.5,4,98.0,1
+USR035,MOV007,Monsoon Stories,Drama,53.2,2,65.2,0
+USR028,MOV003,Galaxy Run,Sci-Fi,34.0,4,70.4,1
+USR120,MOV004,Hidden Truth,Mystery,46.8,4,72.7,1
+USR041,MOV006,Final Horizon,Action,16.5,1,81.5,1
+USR012,MOV004,Hidden Truth,Mystery,28.7,5,65.6,1
+USR137,MOV003,Galaxy Run,Sci-Fi,54.8,3,59.7,1
+USR147,MOV004,Hidden Truth,Mystery,40.7,2,62.7,1
+USR067,MOV010,The Long Game,Sports,36.8,5,65.6,1
+USR145,MOV006,Final Horizon,Action,31.9,3,55.9,0
+USR049,MOV006,Final Horizon,Action,38.7,2,34.8,0
+USR126,MOV001,The Last Signal,Thriller,20.1,3,66.4,0
+USR041,MOV009,Wild Trails,Adventure,30.3,1,68.5,1
+USR001,MOV007,Monsoon Stories,Drama,9.6,2,100.0,1
+USR082,MOV008,Code Red,Thriller,15.0,6,43.5,0
+USR084,MOV002,City Lights,Drama,32.8,2,67.2,0
+USR121,MOV001,The Last Signal,Thriller,49.7,4,69.0,1
+USR144,MOV007,Monsoon Stories,Drama,45.5,2,78.9,1
+USR062,MOV008,Code Red,Thriller,50.4,2,88.5,1
+USR021,MOV001,The Last Signal,Thriller,39.1,1,68.9,0
+USR030,MOV006,Final Horizon,Action,37.6,0,91.5,1
+USR075,MOV002,City Lights,Drama,44.0,2,55.3,0
+USR065,MOV010,The Long Game,Sports,37.9,3,70.7,0
+USR126,MOV001,The Last Signal,Thriller,43.9,2,69.2,1
+USR107,MOV001,The Last Signal,Thriller,60.3,2,74.0,0
+USR122,MOV010,The Long Game,Sports,43.5,1,43.1,0
+USR068,MOV005,Laugh Track,Comedy,40.6,6,76.1,0
+USR109,MOV005,Laugh Track,Comedy,25.1,4,75.3,0
+USR125,MOV003,Galaxy Run,Sci-Fi,42.5,3,48.2,1
+USR019,MOV003,Galaxy Run,Sci-Fi,24.3,3,77.8,0
+USR054,MOV005,Laugh Track,Comedy,31.6,3,80.2,1
+USR046,MOV006,Final Horizon,Action,65.4,2,77.5,1
+USR143,MOV010,The Long Game,Sports,47.7,4,71.5,1
+USR135,MOV009,Wild Trails,Adventure,31.1,4,96.5,0
+USR013,MOV003,Galaxy Run,Sci-Fi,39.0,4,69.3,1
+USR126,MOV007,Monsoon Stories,Drama,57.1,3,71.7,1
+USR135,MOV005,Laugh Track,Comedy,59.2,1,62.4,1
+USR133,MOV003,Galaxy Run,Sci-Fi,54.8,2,85.1,1
+USR128,MOV009,Wild Trails,Adventure,50.8,1,80.1,0
+USR034,MOV004,Hidden Truth,Mystery,41.6,1,59.8,1
+USR144,MOV003,Galaxy Run,Sci-Fi,13.6,0,75.8,1
+USR136,MOV006,Final Horizon,Action,42.0,1,43.1,0
+USR021,MOV007,Monsoon Stories,Drama,39.7,3,84.6,1
+USR074,MOV003,Galaxy Run,Sci-Fi,42.3,2,96.5,0
+USR030,MOV010,The Long Game,Sports,45.3,3,95.2,0
+USR082,MOV004,Hidden Truth,Mystery,26.8,2,79.1,0
+USR096,MOV008,Code Red,Thriller,34.1,2,74.7,0
+USR069,MOV006,Final Horizon,Action,42.2,1,66.1,1
+USR145,MOV009,Wild Trails,Adventure,39.5,6,74.7,1
+USR149,MOV010,The Long Game,Sports,48.9,3,73.4,0
+USR042,MOV005,Laugh Track,Comedy,43.3,1,75.6,1
+USR105,MOV001,The Last Signal,Thriller,60.1,3,79.3,1
+USR109,MOV007,Monsoon Stories,Drama,35.2,4,98.1,1
+USR028,MOV007,Monsoon Stories,Drama,47.5,2,44.0,1
+USR118,MOV006,Final Horizon,Action,24.2,3,100.0,1
+USR102,MOV006,Final Horizon,Action,39.6,1,40.6,1
+USR012,MOV008,Code Red,Thriller,49.5,1,86.6,0
+USR090,MOV006,Final Horizon,Action,59.9,1,88.5,1
+USR134,MOV006,Final Horizon,Action,38.0,1,100.0,1
+USR043,MOV007,Monsoon Stories,Drama,44.0,2,73.8,1
+USR045,MOV005,Laugh Track,Comedy,44.5,1,72.9,1
+USR004,MOV006,Final Horizon,Action,45.7,2,77.6,1
+USR026,MOV010,The Long Game,Sports,73.9,3,79.8,1
+USR095,MOV009,Wild Trails,Adventure,63.7,2,79.1,1
+USR054,MOV001,The Last Signal,Thriller,51.6,4,67.7,0
+USR038,MOV001,The Last Signal,Thriller,73.3,3,72.7,1
+USR108,MOV006,Final Horizon,Action,46.2,2,100.0,1
+USR068,MOV001,The Last Signal,Thriller,58.8,1,29.2,1
+USR017,MOV003,Galaxy Run,Sci-Fi,5.0,3,71.1,0
+USR039,MOV005,Laugh Track,Comedy,61.8,2,90.9,1
+USR104,MOV001,The Last Signal,Thriller,45.5,2,50.3,0
+USR093,MOV002,City Lights,Drama,51.1,1,97.0,1
+USR017,MOV003,Galaxy Run,Sci-Fi,94.4,2,45.7,0
+USR059,MOV002,City Lights,Drama,35.7,4,38.9,1
+USR026,MOV009,Wild Trails,Adventure,45.2,3,68.6,1
+USR116,MOV003,Galaxy Run,Sci-Fi,81.5,6,55.8,0
+USR024,MOV008,Code Red,Thriller,33.7,2,53.5,0
+USR116,MOV008,Code Red,Thriller,45.0,3,60.2,1
+USR135,MOV007,Monsoon Stories,Drama,39.5,3,84.0,1
+USR047,MOV007,Monsoon Stories,Drama,29.3,1,52.4,0
+USR126,MOV004,Hidden Truth,Mystery,60.3,3,86.8,1
+USR016,MOV006,Final Horizon,Action,50.7,2,47.2,0
+USR111,MOV007,Monsoon Stories,Drama,69.0,2,78.9,1
+USR104,MOV009,Wild Trails,Adventure,19.5,4,75.1,0
+USR052,MOV007,Monsoon Stories,Drama,54.2,5,70.7,0
+USR015,MOV005,Laugh Track,Comedy,23.7,4,79.9,1
+USR059,MOV004,Hidden Truth,Mystery,52.4,1,87.3,0
+USR080,MOV003,Galaxy Run,Sci-Fi,36.6,2,77.5,1
+USR119,MOV006,Final Horizon,Action,48.3,5,66.5,1
+USR012,MOV003,Galaxy Run,Sci-Fi,34.9,1,47.8,1
+USR019,MOV005,Laugh Track,Comedy,26.6,3,47.7,0
+USR147,MOV006,Final Horizon,Action,16.4,5,64.2,0
+USR066,MOV006,Final Horizon,Action,48.4,1,69.0,1
+USR071,MOV006,Final Horizon,Action,41.4,2,79.0,1
+USR039,MOV003,Galaxy Run,Sci-Fi,40.7,1,45.9,1
+USR066,MOV006,Final Horizon,Action,43.0,2,69.9,0
+USR065,MOV005,Laugh Track,Comedy,54.2,3,51.3,1
+USR068,MOV003,Galaxy Run,Sci-Fi,46.1,4,68.1,1
+USR085,MOV007,Monsoon Stories,Drama,37.1,3,42.8,0
+USR092,MOV009,Wild Trails,Adventure,39.9,2,43.1,0
+USR110,MOV001,The Last Signal,Thriller,71.5,3,81.7,1
+USR094,MOV005,Laugh Track,Comedy,38.4,2,54.5,0
+USR008,MOV007,Monsoon Stories,Drama,48.1,4,80.1,1
+USR028,MOV003,Galaxy Run,Sci-Fi,55.3,2,64.9,1
+USR114,MOV001,The Last Signal,Thriller,46.6,3,85.0,1
+USR135,MOV005,Laugh Track,Comedy,67.8,3,64.9,1
+USR085,MOV006,Final Horizon,Action,56.7,0,53.9,1
+USR140,MOV005,Laugh Track,Comedy,39.6,3,87.4,1
+USR046,MOV008,Code Red,Thriller,17.7,1,78.4,1
+USR137,MOV007,Monsoon Stories,Drama,43.9,4,69.7,1
+USR029,MOV006,Final Horizon,Action,44.6,4,100.0,1
+USR104,MOV005,Laugh Track,Comedy,65.9,2,100.0,1
+USR138,MOV005,Laugh Track,Comedy,56.6,2,88.5,1
+USR127,MOV003,Galaxy Run,Sci-Fi,48.4,2,73.9,0
+USR098,MOV003,Galaxy Run,Sci-Fi,60.0,6,57.8,0
+USR048,MOV003,Galaxy Run,Sci-Fi,51.7,0,100.0,1
+USR058,MOV001,The Last Signal,Thriller,53.4,3,71.9,1
+USR026,MOV001,The Last Signal,Thriller,58.6,3,90.5,1
+USR083,MOV009,Wild Trails,Adventure,55.7,3,91.3,1
+USR136,MOV003,Galaxy Run,Sci-Fi,31.9,3,57.6,0
+USR064,MOV006,Final Horizon,Action,21.9,5,70.4,0
+USR130,MOV008,Code Red,Thriller,40.6,4,68.6,0
+USR058,MOV001,The Last Signal,Thriller,63.7,1,47.0,1
+USR044,MOV005,Laugh Track,Comedy,33.3,2,33.0,0
+USR021,MOV007,Monsoon Stories,Drama,23.5,1,95.5,1
+USR013,MOV010,The Long Game,Sports,20.0,2,75.4,1
+USR002,MOV006,Final Horizon,Action,62.5,4,40.3,1
+USR061,MOV002,City Lights,Drama,66.1,4,92.8,1
+USR119,MOV001,The Last Signal,Thriller,61.5,3,74.1,1
+USR063,MOV006,Final Horizon,Action,61.6,2,84.0,1
+USR056,MOV006,Final Horizon,Action,47.2,0,43.8,0
+USR027,MOV008,Code Red,Thriller,59.5,5,84.1,1
+USR144,MOV004,Hidden Truth,Mystery,51.0,0,90.8,1
+USR048,MOV001,The Last Signal,Thriller,24.4,0,66.7,1
+USR099,MOV005,Laugh Track,Comedy,51.3,1,95.9,1
+USR020,MOV003,Galaxy Run,Sci-Fi,58.4,5,89.4,1
+USR113,MOV003,Galaxy Run,Sci-Fi,37.3,3,89.2,1
+USR139,MOV010,The Long Game,Sports,5.0,0,84.5,1
+USR089,MOV002,City Lights,Drama,56.1,2,65.6,1
+USR150,MOV009,Wild Trails,Adventure,34.7,3,73.7,0
+USR040,MOV006,Final Horizon,Action,22.2,1,100.0,1
+USR075,MOV006,Final Horizon,Action,23.0,6,82.6,1
+USR084,MOV008,Code Red,Thriller,44.9,1,56.9,1
+USR088,MOV004,Hidden Truth,Mystery,40.4,4,86.6,0
+USR119,MOV009,Wild Trails,Adventure,45.8,3,86.8,1
+USR058,MOV001,The Last Signal,Thriller,39.1,3,85.1,1
+USR037,MOV002,City Lights,Drama,31.8,1,71.3,1
+USR136,MOV009,Wild Trails,Adventure,5.0,2,70.9,1
+USR082,MOV008,Code Red,Thriller,36.3,2,61.6,1
+USR010,MOV006,Final Horizon,Action,33.6,3,71.4,0
+USR065,MOV008,Code Red,Thriller,25.8,0,51.7,1
+USR022,MOV007,Monsoon Stories,Drama,40.5,2,71.3,1
+USR076,MOV009,Wild Trails,Adventure,69.5,7,86.7,1
+USR089,MOV006,Final Horizon,Action,20.9,3,64.4,1
+USR120,MOV008,Code Red,Thriller,45.9,3,49.4,0
+USR072,MOV005,Laugh Track,Comedy,55.0,2,55.6,0
+USR084,MOV009,Wild Trails,Adventure,31.6,5,86.4,1
+USR081,MOV007,Monsoon Stories,Drama,17.0,2,98.9,1
+USR059,MOV006,Final Horizon,Action,47.8,1,42.0,1
+USR016,MOV010,The Long Game,Sports,50.6,0,79.7,1
+USR116,MOV007,Monsoon Stories,Drama,5.0,5,63.0,0
+USR057,MOV009,Wild Trails,Adventure,10.0,1,99.6,1
+USR136,MOV004,Hidden Truth,Mystery,51.7,1,85.6,1
+USR103,MOV008,Code Red,Thriller,39.1,2,76.0,1
+USR115,MOV001,The Last Signal,Thriller,46.2,4,46.3,0
+USR038,MOV008,Code Red,Thriller,65.5,3,81.1,1
+USR083,MOV007,Monsoon Stories,Drama,44.4,3,100.0,1
+USR048,MOV010,The Long Game,Sports,71.2,2,59.3,1
+USR031,MOV008,Code Red,Thriller,46.9,3,72.5,1
+USR118,MOV008,Code Red,Thriller,27.2,2,60.4,0
+USR027,MOV010,The Long Game,Sports,46.0,1,85.1,1
+USR129,MOV001,The Last Signal,Thriller,36.8,5,54.9,1
+USR038,MOV006,Final Horizon,Action,34.5,3,63.1,1
+USR121,MOV010,The Long Game,Sports,67.7,1,86.0,0
+USR138,MOV010,The Long Game,Sports,55.7,5,73.9,1
+USR037,MOV009,Wild Trails,Adventure,46.3,1,86.7,1
+USR090,MOV008,Code Red,Thriller,44.6,4,56.9,0
+USR031,MOV008,Code Red,Thriller,49.2,5,78.0,1
+USR079,MOV004,Hidden Truth,Mystery,42.3,3,63.6,1
+USR090,MOV001,The Last Signal,Thriller,46.6,0,63.2,1
+USR013,MOV001,The Last Signal,Thriller,35.4,3,90.7,1
+USR058,MOV001,The Last Signal,Thriller,48.5,0,56.3,0
+USR132,MOV001,The Last Signal,Thriller,69.6,2,46.2,1
+USR081,MOV001,The Last Signal,Thriller,65.0,2,59.0,0
+USR032,MOV003,Galaxy Run,Sci-Fi,52.7,4,35.1,0
+USR068,MOV004,Hidden Truth,Mystery,37.7,1,100.0,1
+USR031,MOV008,Code Red,Thriller,46.8,0,66.0,0
+USR057,MOV003,Galaxy Run,Sci-Fi,37.6,6,72.3,0
+USR098,MOV003,Galaxy Run,Sci-Fi,37.9,0,61.2,0
+USR146,MOV007,Monsoon Stories,Drama,62.2,4,74.7,1
+USR081,MOV008,Code Red,Thriller,16.2,4,78.5,1
+USR150,MOV009,Wild Trails,Adventure,58.3,2,80.1,1
+USR047,MOV007,Monsoon Stories,Drama,43.1,2,65.9,0
+USR112,MOV004,Hidden Truth,Mystery,50.6,1,31.5,1
+USR010,MOV009,Wild Trails,Adventure,51.8,3,87.6,1
+USR126,MOV003,Galaxy Run,Sci-Fi,27.7,2,83.5,0
+USR018,MOV002,City Lights,Drama,39.9,0,85.3,1
+USR108,MOV003,Galaxy Run,Sci-Fi,34.2,0,73.3,1
+USR063,MOV010,The Long Game,Sports,16.0,4,98.9,1
+USR120,MOV008,Code Red,Thriller,53.7,1,68.7,0
+USR124,MOV004,Hidden Truth,Mystery,40.3,2,55.9,1
+USR027,MOV005,Laugh Track,Comedy,30.4,3,69.8,1
+USR100,MOV007,Monsoon Stories,Drama,39.4,2,68.9,0
+USR147,MOV003,Galaxy Run,Sci-Fi,44.4,4,55.0,1
+USR068,MOV006,Final Horizon,Action,53.4,4,51.4,0
+USR128,MOV002,City Lights,Drama,62.0,1,71.0,1
+USR017,MOV003,Galaxy Run,Sci-Fi,57.8,3,76.0,0
+USR050,MOV007,Monsoon Stories,Drama,30.2,3,75.3,1
+USR012,MOV001,The Last Signal,Thriller,27.7,3,59.8,1
+USR025,MOV003,Galaxy Run,Sci-Fi,48.8,4,88.2,1
+USR107,MOV010,The Long Game,Sports,26.2,3,85.6,1
+USR010,MOV009,Wild Trails,Adventure,27.2,1,43.3,1
+USR029,MOV009,Wild Trails,Adventure,25.9,2,100.0,1
+USR078,MOV005,Laugh Track,Comedy,43.2,1,100.0,1
+USR127,MOV005,Laugh Track,Comedy,17.0,2,91.1,0
+USR109,MOV004,Hidden Truth,Mystery,57.5,3,43.3,1
+USR087,MOV005,Laugh Track,Comedy,59.8,1,97.9,1
+USR027,MOV007,Monsoon Stories,Drama,59.6,3,75.6,1
+USR110,MOV004,Hidden Truth,Mystery,21.8,2,88.6,1
+USR072,MOV006,Final Horizon,Action,13.4,4,74.2,1
+USR016,MOV007,Monsoon Stories,Drama,25.0,0,70.9,0
+USR084,MOV003,Galaxy Run,Sci-Fi,39.2,2,70.4,1
+USR004,MOV006,Final Horizon,Action,66.9,3,86.2,0
+USR086,MOV003,Galaxy Run,Sci-Fi,49.1,2,100.0,1
+USR115,MOV004,Hidden Truth,Mystery,63.7,1,71.3,1
+USR011,MOV010,The Long Game,Sports,82.3,5,53.0,0
+USR065,MOV010,The Long Game,Sports,47.7,2,68.8,1
+USR140,MOV003,Galaxy Run,Sci-Fi,58.3,3,78.2,1
+USR007,MOV010,The Long Game,Sports,31.5,7,92.9,1
+USR028,MOV010,The Long Game,Sports,44.8,1,84.2,1
+USR093,MOV009,Wild Trails,Adventure,33.1,2,69.0,0
+USR007,MOV008,Code Red,Thriller,31.7,3,99.2,1
+USR052,MOV006,Final Horizon,Action,37.5,1,65.6,0
+USR004,MOV001,The Last Signal,Thriller,43.0,2,67.0,0
+USR123,MOV001,The Last Signal,Thriller,40.2,1,64.7,0
+USR031,MOV009,Wild Trails,Adventure,26.6,1,43.6,0
+USR066,MOV004,Hidden Truth,Mystery,49.3,2,100.0,1
+USR070,MOV004,Hidden Truth,Mystery,26.9,4,59.3,1
+USR137,MOV008,Code Red,Thriller,39.9,2,97.3,1
+USR003,MOV006,Final Horizon,Action,61.2,3,59.9,1
+USR113,MOV007,Monsoon Stories,Drama,38.5,2,86.5,1
+USR119,MOV002,City Lights,Drama,48.3,6,76.5,1
+USR074,MOV001,The Last Signal,Thriller,22.7,0,77.3,1
+USR131,MOV007,Monsoon Stories,Drama,50.3,0,97.8,0
+USR085,MOV003,Galaxy Run,Sci-Fi,29.1,5,86.6,1
+USR015,MOV003,Galaxy Run,Sci-Fi,21.1,4,74.3,0
+USR012,MOV007,Monsoon Stories,Drama,73.6,0,82.7,1
+USR141,MOV009,Wild Trails,Adventure,38.7,4,42.5,0
+USR137,MOV002,City Lights,Drama,27.6,0,81.0,1
+USR067,MOV008,Code Red,Thriller,31.1,0,89.1,1
+USR045,MOV010,The Long Game,Sports,65.0,2,84.0,1
+USR026,MOV002,City Lights,Drama,57.6,4,92.1,1
+USR092,MOV006,Final Horizon,Action,40.8,3,100.0,1
+USR099,MOV001,The Last Signal,Thriller,34.2,1,79.8,1
+USR046,MOV002,City Lights,Drama,33.7,3,100.0,1
+USR146,MOV008,Code Red,Thriller,51.5,2,96.6,0
+USR135,MOV007,Monsoon Stories,Drama,53.1,1,50.0,0
+USR040,MOV002,City Lights,Drama,52.7,3,72.8,1
+USR038,MOV001,The Last Signal,Thriller,36.0,3,61.0,1
+USR019,MOV006,Final Horizon,Action,38.6,2,73.2,1
+USR126,MOV002,City Lights,Drama,28.7,1,96.8,0
+USR080,MOV002,City Lights,Drama,54.8,5,76.0,1
+USR088,MOV008,Code Red,Thriller,29.8,4,52.8,0
+USR016,MOV004,Hidden Truth,Mystery,43.4,3,94.2,0
+USR105,MOV003,Galaxy Run,Sci-Fi,68.6,4,80.8,1
+USR117,MOV008,Code Red,Thriller,52.1,0,46.7,1
+USR060,MOV003,Galaxy Run,Sci-Fi,36.1,2,47.5,1
+USR089,MOV007,Monsoon Stories,Drama,44.0,1,93.8,1
+USR099,MOV002,City Lights,Drama,36.0,2,69.2,1
+USR126,MOV002,City Lights,Drama,54.2,2,60.4,0
+USR030,MOV008,Code Red,Thriller,49.3,2,81.6,1
+USR080,MOV003,Galaxy Run,Sci-Fi,62.7,2,74.8,1
+USR081,MOV004,Hidden Truth,Mystery,85.8,5,55.6,1
+USR075,MOV008,Code Red,Thriller,55.2,1,58.5,0
+USR059,MOV006,Final Horizon,Action,41.8,1,69.7,1
+USR104,MOV007,Monsoon Stories,Drama,52.4,4,79.2,0
+USR063,MOV007,Monsoon Stories,Drama,38.9,2,100.0,1
+USR112,MOV004,Hidden Truth,Mystery,60.4,6,40.7,1
+USR050,MOV001,The Last Signal,Thriller,30.3,2,64.4,0
+USR096,MOV004,Hidden Truth,Mystery,33.3,2,85.7,0
+USR038,MOV004,Hidden Truth,Mystery,48.4,2,72.7,0
+USR022,MOV008,Code Red,Thriller,56.1,4,61.1,0
+USR094,MOV003,Galaxy Run,Sci-Fi,29.4,1,79.3,1
+USR051,MOV006,Final Horizon,Action,50.1,1,87.5,1
+USR110,MOV009,Wild Trails,Adventure,30.0,2,100.0,0
+USR004,MOV001,The Last Signal,Thriller,43.6,1,77.8,1
+USR056,MOV002,City Lights,Drama,43.9,4,68.0,1
+USR079,MOV001,The Last Signal,Thriller,29.8,3,94.6,1
+USR078,MOV002,City Lights,Drama,38.8,5,99.1,1
+USR065,MOV009,Wild Trails,Adventure,33.6,2,84.0,1
+USR060,MOV006,Final Horizon,Action,30.3,0,58.3,1
+USR122,MOV003,Galaxy Run,Sci-Fi,22.1,6,55.8,0
+USR016,MOV001,The Last Signal,Thriller,58.9,4,50.4,1
+USR079,MOV006,Final Horizon,Action,39.5,6,72.1,0
+USR140,MOV002,City Lights,Drama,21.2,2,43.2,0
+USR058,MOV006,Final Horizon,Action,28.5,1,53.8,1
+USR055,MOV006,Final Horizon,Action,32.5,2,84.0,1
+USR035,MOV009,Wild Trails,Adventure,57.9,4,72.6,1
+USR006,MOV003,Galaxy Run,Sci-Fi,36.3,5,66.0,0
+USR115,MOV007,Monsoon Stories,Drama,25.4,3,92.5,1
+USR127,MOV010,The Long Game,Sports,52.8,4,73.9,0
+USR074,MOV004,Hidden Truth,Mystery,7.5,2,25.6,0
+USR145,MOV009,Wild Trails,Adventure,21.1,1,82.6,0
+USR112,MOV008,Code Red,Thriller,30.2,2,52.9,0
+USR101,MOV008,Code Red,Thriller,27.5,2,86.4,1
+USR148,MOV002,City Lights,Drama,51.1,1,75.8,1
+USR019,MOV008,Code Red,Thriller,56.3,0,76.4,1
+USR042,MOV010,The Long Game,Sports,17.0,3,69.4,1
+USR144,MOV003,Galaxy Run,Sci-Fi,64.7,4,79.2,1
+USR010,MOV008,Code Red,Thriller,52.7,0,66.0,1
+USR090,MOV006,Final Horizon,Action,33.7,3,100.0,1
+USR068,MOV007,Monsoon Stories,Drama,66.3,1,63.6,1
+USR048,MOV010,The Long Game,Sports,40.7,4,81.9,0
+USR130,MOV004,Hidden Truth,Mystery,39.8,1,47.1,0
+USR018,MOV004,Hidden Truth,Mystery,70.6,4,70.7,0
+USR053,MOV004,Hidden Truth,Mystery,41.8,3,78.8,1
+USR037,MOV005,Laugh Track,Comedy,50.1,1,79.7,1
+USR149,MOV009,Wild Trails,Adventure,29.5,1,51.0,1
+USR115,MOV009,Wild Trails,Adventure,58.8,6,75.4,1
+USR121,MOV001,The Last Signal,Thriller,31.4,1,100.0,1
+USR127,MOV004,Hidden Truth,Mystery,27.0,2,76.0,1
+USR112,MOV009,Wild Trails,Adventure,11.1,2,43.5,0
+USR038,MOV008,Code Red,Thriller,33.7,4,96.0,0
+USR134,MOV006,Final Horizon,Action,30.0,1,64.6,1
+USR039,MOV001,The Last Signal,Thriller,33.0,2,75.0,0
+USR074,MOV008,Code Red,Thriller,29.5,3,99.0,1
+USR018,MOV009,Wild Trails,Adventure,27.2,0,75.6,1
+USR072,MOV001,The Last Signal,Thriller,38.8,3,100.0,0
+USR023,MOV005,Laugh Track,Comedy,45.3,6,66.1,0
+USR013,MOV006,Final Horizon,Action,5.0,2,54.9,0
+USR002,MOV003,Galaxy Run,Sci-Fi,56.0,2,64.5,1
+USR073,MOV005,Laugh Track,Comedy,17.5,1,91.2,1
+USR007,MOV005,Laugh Track,Comedy,21.4,2,75.0,1
+USR132,MOV008,Code Red,Thriller,60.2,2,43.0,0
+USR068,MOV010,The Long Game,Sports,17.7,2,66.1,0
+USR140,MOV008,Code Red,Thriller,47.9,0,65.5,1
+USR056,MOV010,The Long Game,Sports,43.2,1,73.2,1
+USR101,MOV003,Galaxy Run,Sci-Fi,53.4,3,52.2,1
+USR140,MOV003,Galaxy Run,Sci-Fi,50.9,1,61.4,0
+USR063,MOV006,Final Horizon,Action,30.3,2,93.8,1
+USR096,MOV009,Wild Trails,Adventure,59.2,3,58.0,1
+USR038,MOV010,The Long Game,Sports,13.6,1,76.0,1
+USR111,MOV007,Monsoon Stories,Drama,67.5,2,59.7,1
+USR143,MOV008,Code Red,Thriller,61.1,3,74.7,0
+USR084,MOV004,Hidden Truth,Mystery,39.7,6,77.8,1
+USR146,MOV007,Monsoon Stories,Drama,48.3,3,72.2,1
+USR069,MOV004,Hidden Truth,Mystery,56.8,2,59.2,1
+USR102,MOV007,Monsoon Stories,Drama,39.4,2,71.8,1
+USR040,MOV003,Galaxy Run,Sci-Fi,26.0,3,73.1,0
+USR097,MOV006,Final Horizon,Action,22.9,1,39.5,0
+USR005,MOV001,The Last Signal,Thriller,55.4,3,72.4,1
+USR127,MOV008,Code Red,Thriller,43.8,6,35.8,0
+USR019,MOV006,Final Horizon,Action,69.4,2,67.7,1
+USR002,MOV003,Galaxy Run,Sci-Fi,60.5,3,84.8,1
+USR014,MOV004,Hidden Truth,Mystery,30.1,4,84.4,1
+USR129,MOV005,Laugh Track,Comedy,39.8,3,77.0,1
